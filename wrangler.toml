@@ -10,7 +10,7 @@ kv_namespaces = [
 
 [vars]
 # 可选：与客户端填写的 Server Token 一致
-#SYNC_TOKEN = "change-me"
+SYNC_TOKEN = "yys0216"
 
 # 可选：全站访问口令
 # ACCESS_GATE = "your-site-password"
